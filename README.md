@@ -5,7 +5,7 @@ settled legal position or a straight-jacket formula. Such a settled legal positi
 various fields of law
 
  Packages used:<br /><br />
- GUI: <br /> >  tkinter <br /><br />Text pre-processing: <br />>re<br /> >string <br />> nltk <br /><br />Text classfication[BagOfWords]: <br />> TfidfVectorizer<br /> <br />Ml:<br /> > sklearn[logistic regression]<br /><br />
+ GUI: <br /> >  tkinter <br /><br />Text pre-processing: <br />>re<br /> >string <br />> nltk <br /><br />Text classfication[BagOfWords]: <br />> TfidfVectorizer<br /> <br />Ml:<br /> > sklearn[logistic regression]<br /><br />Arbitration extraction:<br />> pypdf2<br /><br />
 
 
 
