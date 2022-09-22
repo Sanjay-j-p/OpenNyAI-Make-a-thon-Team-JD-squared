@@ -1,5 +1,8 @@
 # OpenNyAI-Make-a-thon-Team-JD-squared
- A product which acts as a first level filter for the judicial officer / institution deciding the application for appointment of an Arbitrator.
+ A product which acts as a first level filter for the judicial officer / institution deciding the application for appointment of an Arbitrator.Our team proposes to address the problem of long pendency of cases plaguing the Indian
+judiciary. We posit that AI models can assist judges to decide issues in matters which have a
+settled legal position or a straight-jacket formula. Such a settled legal position exists in
+various fields of law
 
  Packages used:<br /><br />
  GUI: <br /> >  tkinter <br /><br />Text pre-processing: <br />>re<br /> >string <br />> nltk <br /><br />Text classfication[BagOfWords]: <br />> TfidfVectorizer<br /> <br />Ml:<br /> > sklearn[logistic regression]<br /><br />
